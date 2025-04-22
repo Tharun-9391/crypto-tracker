@@ -1,0 +1,26 @@
+.crypto-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .crypto-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .crypto-container li {
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background: #f4f4f4;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .crypto-container img {
+    width: 30px;
+    margin-right: 15px;
+  }
+  
